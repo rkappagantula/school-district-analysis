@@ -1,6 +1,7 @@
 # school-district-analysis
 
 **#Overview of the school district analysis:**
+
 The purpose of this project is to analyze district-wide standardized test results. Data is aggregated to show trends in school performance. The school board will be using these results to make strategic decisions regarding future school budgets and priorities.
 
 # Results:
